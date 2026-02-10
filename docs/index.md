@@ -8,5 +8,5 @@
 - [Arquitectura](arquitectura.md)
 - [Conclusiones](conclusiones.md)
 - [Referencias](referencias.md)
--[Ver imágenes](img)
+-[Ver imágenes](img/)
 
