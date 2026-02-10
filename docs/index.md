@@ -8,5 +8,8 @@
 - [Arquitectura](arquitectura.md)
 - [Conclusiones](conclusiones.md)
 - [Referencias](referencias.md)
--[Ver imágenes](img/)
+ # Galería de Imágenes
+
+![Home](img/home.png)
+![Arquitectura](img/arquitectura.png)
 
