@@ -2,7 +2,7 @@
 
 ## Índice
 
-- [imagene](img.md)
+- [imagene](imagen.md)
 - [Introducción](introduccion.md)
 - [Instalación](instalacion.md)
 - [Uso](uso.md)
